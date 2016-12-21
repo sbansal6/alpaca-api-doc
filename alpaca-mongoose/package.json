@@ -1,0 +1,9 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "lodash": "^4.17.2",
+    "mongoose": "^4.7.2",
+    "underscore.string": "^3.3.4"
+  }
+}
